@@ -4,3 +4,10 @@ Git sets up a local repo. Otherwise there is not a basis for version control.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Working directory can contain changes that aren't ready to be committed. This offers more granularity/specificity in commits, without slowing down development.
 
+How can you use the staging area to make sure you have one commit per logical change?
+By individually staging files, rather than loading them all in.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When tackling a tricky new feature that would require a lot of changes. All of those testing versions don't get dumped into your master code branch (at least not yet).
+
+
