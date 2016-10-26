@@ -16,3 +16,6 @@ By showing the commits for the separate branches.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 It combines the code from both branches. Because it's a combination of both lineages, where both branches are parents.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+You only have to manually merge the questionable things, without having to go through unchanged things or non-problematic merge items.
+
