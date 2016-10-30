@@ -7,3 +7,5 @@ When working on features that are going to take more than one commit - so you do
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks: when using Github to develop off someone else's work. Clones: when doing local development, but using remotes to track changes or share with others. Branches: When developing new features, or for seperating use cases.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Allows you to continue working on your version, but then merge in the commits from the remote without internet access. Allows you to diff the remote changes to anticipate merge conflicts.
