@@ -9,3 +9,7 @@ Forks: when using Github to develop off someone else's work. Clones: when doing 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Allows you to continue working on your version, but then merge in the commits from the remote without internet access. Allows you to diff the remote changes to anticipate merge conflicts.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+By trading files or using a common server. Not much version tracking. No built in communication tools.
+
