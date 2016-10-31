@@ -13,3 +13,6 @@ Allows you to continue working on your version, but then merge in the commits fr
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 By trading files or using a common server. Not much version tracking. No built in communication tools.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Working directly in master saves a little time and commit complexity, but working in a seperate branch preseves the working master copy, that can be debugged before the final merge.
+
